@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "8eff93ea19ae65d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c63c37e2a3c16bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0646bc42c5cd2162",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/13 - Integration.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90c309c392d09a4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3792e7e0579fd68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f89af9fa224756cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a03fc1cdc049395d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "583b4da2848d5e30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eeb8fa7e11568efd",
+    "type": "split",
+    "children": [
+      {
+        "id": "00170e1118943a0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "983c138e187f479d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Maths/13 - Integration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bc6eafa59bcf27b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Maths/13 - Integration.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f87e8bd5208d08b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4b827abb4fc6c6de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Maths/13 - Integration.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "0646bc42c5cd2162",
+  "lastOpenFiles": [
+    "A-Level-Notes",
+    "Maths/12 - Differentiation.md",
+    "Maths/13 - Integration.md",
+    "Excalidraw/Integration Practice Questions.md",
+    "Excalidraw/Drawing 2023-09-03 17.24.30.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-03 17.26.44.excalidraw.md",
+    "Pasted Image 20230903172142_634.png",
+    "Pasted image 20230903164725.png",
+    "Excalidraw",
+    "Pasted image 20230903164824.png",
+    "Obsidian Documentation.md",
+    "Pasted image 20230903152603.png",
+    "Maths/11 - Vectors.md",
+    "Further Maths/9 - Vectors.md",
+    "Further Maths/Further Maths Topic List.md",
+    "Maths/21 - Numerical Methods.md",
+    "Maths/20 - Parametric Equations.md",
+    "Maths/19 - Trigonometry and Modelling.md",
+    "Maths/18 - Trigonometric Functions.md",
+    "Maths/17 - Radians.md",
+    "Maths/16 - Sequences and Series.md",
+    "Maths/15 - Functions and Graphs.md",
+    "Maths/Maths Topic List.md",
+    "Maths/26 - 3D Vectors.md",
+    "Maths/25 - Integration 2.md",
+    "Maths/23 - Differentiation 2.md",
+    "Maths/18 - Binomial Expansion 2.md",
+    "Maths/15 - Algebraic Methods 2.md",
+    "Maths/8 - Binomial Expansion.md",
+    "Maths/7 - Algebraic Methods.md",
+    "Physics/Physics Topic List.md",
+    "Untitled.canvas",
+    "Untitled",
+    "Maths",
+    "Further Maths",
+    "Physics",
+    "Computer Science"
+  ]
+}

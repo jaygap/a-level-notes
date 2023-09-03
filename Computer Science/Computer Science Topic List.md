@@ -1,0 +1,13 @@
+# [[1 - Fundamentals of Programming]]
+# [[2 - Fundamentals of Data Structures]]
+# [[3 - Fundamentals of Algorithms]]
+# [[4 - Theory of Computation]]
+# [[5 - Fundamentals of Data Representation]]
+# [[6 - Fundamentals of Computer Systems]]
+# [[7 - Fundamentals of Computer Organisation and Architecture]]
+
+# [[8 - Consequences of Uses of Computing]]
+# [[9 - Fundamentals of Communication and Networking]]
+# [[10 - Fundamentals of Databases]]
+# [[11 - Big Data]]
+# [[12 - Fundamentals of Functional Programming]]
