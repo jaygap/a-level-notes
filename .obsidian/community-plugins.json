@@ -1,5 +1,6 @@
 [
   "highlightr-plugin",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-pandoc"
 ]
