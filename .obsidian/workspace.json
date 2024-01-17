@@ -4,40 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "6c63c37e2a3c16bc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c399765e451455c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Further Mechanics and Thermal Physics.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "4cb18689aaa4c2f8"
-          }
-        ]
-      },
-      {
         "id": "dc3cf24d6c4a0ada",
         "type": "tabs",
         "children": [
           {
-            "id": "0fb83b4c61c94445",
+            "id": "7325018fc0a9a81f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Further Mechanics and Thermal Physics.md",
+                "file": "Jan 2024 Physics Revision List Content Paper 1.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "4cb18689aaa4c2f8"
+            "group": "16f5132c5f2f4fcd"
+          },
+          {
+            "id": "2723714b1d0f4be5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jan 2024 Physics Revision List Content Paper 1.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "16f5132c5f2f4fcd"
           }
         ]
       }
@@ -105,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Further Mechanics and Thermal Physics.md",
+                "file": "Jan 2024 Physics Revision List Content Paper 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Further Mechanics and Thermal Physics.md",
+                "file": "Jan 2024 Physics Revision List Content Paper 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Further Mechanics and Thermal Physics.md"
+                "file": "Jan 2024 Physics Revision List Content Paper 1.md"
               }
             }
           },
@@ -155,7 +149,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -177,45 +173,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c399765e451455c2",
+  "active": "7325018fc0a9a81f",
   "lastOpenFiles": [
-    "Physics/FurtherMechAndThermal.pdf",
-    "Physics/Fields and Their Consequences.md",
-    "Physics/FieldsAndTheirConsequences.pdf",
-    "Physics/Further Mechanics and Thermal Physics.md",
-    "Physics/Nuclear Physics.md",
-    "Pasted image 20231127153437.png",
-    "Pasted image 20231127153240.png",
-    "Physics/NuclearPhysics.pdf",
-    "Physics/NuclearPhysics.log",
-    "Physics/NuclearPhysics.tex",
-    "Physics/Particles and Radiation.md",
-    "Physics/Electricity.md",
-    "Physics/Mechanics and Materials.md",
-    "Physics/Waves.md",
-    "Physics/Measurements and their Errors.md",
-    "Physics/Physics Topic List.md",
-    "Further Maths/Complex Numbers.md",
+    "Paper1Notes.pdf",
     "Obsidian Documentation.md",
+    "Jan 2024 Physics Revision List Content Paper 1.md",
+    "Physics/Particles and Radiation.md",
+    "Pasted image 20231127153437.png",
+    "Physics/Further Mechanics and Thermal Physics.md",
+    "Physics/FurtherMechAndThermal.pdf",
+    "Computer Science/1 - Fundamentals of Programming.md",
+    "Computer Science/5 - Fundamentals of Data Representation.md",
+    "Computer Science/8 - Consequences of Uses of Computing.md",
     "Computer Science/4 - Theory of Computation.md",
     "Computer Science/3 - Fundamentals of Algorithms.md",
     "Computer Science/2 - Fundamentals of Data Structures.md",
-    "Computer Science/1 - Fundamentals of Programming.md",
-    "Computer Science/7 - Fundamentals of Computer Organisation and Architecture.md",
-    "Computer Science/8 - Consequences of Uses of Computing.md",
-    "Computer Science/Computer Science Topic List.md",
-    "Further Maths/Vectors.md",
-    "Further Maths/Further Maths Topic List.md",
-    "Further Maths/Proof by inductions.md",
-    "Further Maths/Linear Transformations.md",
-    "Further Maths/Matrices.md",
-    "Further Maths/Volumes of revolution.md",
-    "Further Maths/Roots of polynomials.md",
+    "Maths/Radians.md",
+    "Maths/Sequences and Series.md",
+    "Maths/Exponentials and Logarthims.md",
+    "Maths/Functions and Graphs.md",
+    "Maths/Trigonometric Identities and Equations.md",
+    "Maths/Integration.md",
+    "Maths/Differentiation.md",
+    "Maths/Parametric Equations.md",
+    "Maths/Trigonometric Ratios.md",
+    "Maths/Equations and Inequalities.md",
+    "Maths/Maths Topic List.md",
+    "Computer Science/6 - Fundamentals of Computer Systems.md",
+    "Computer Science/9 - Fundamentals of Communication and Networking.md",
+    "Computer Science/10 - Fundamentals of Databases.md",
+    "Computer Science/11 - Big Data.md",
+    "Physics/NuclearPhysics.pdf",
+    "Physics/FieldsAndTheirConsequences.pdf",
+    "Pasted image 20231127153240.png",
+    "Physics/NuclearPhysics.log",
+    "Physics/NuclearPhysics.tex",
     "Physics/Waves.pdf",
     "Physics/Electricity.synctex(busy)",
     "Physics/Electricity.bbl",
     "Physics/Electricity.blg",
-    "Physics/Electricity.synctex.gz",
     "Pasted image 20230918193425.png",
     "Pasted image 20230918192852.png",
     "Pasted image 20230918192847.png",
