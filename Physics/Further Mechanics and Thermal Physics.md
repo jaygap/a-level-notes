@@ -146,8 +146,7 @@ $$E_e = \frac{1}{2}kx^2$$
 
 
 #### Damping
-\ 
-
+\
 Real world systems aren't usually isolated systems, so the forces such as friction reduce the energy of the object(s) in SHM.
 
 Damping is when the amplitude of a wave decreases but the frequency/period remains the same.

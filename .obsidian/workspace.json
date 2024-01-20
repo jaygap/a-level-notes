@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Stats.md",
+                "file": "Maths/Graphs and Transformations.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Stats.md",
-                "mode": "preview",
+                "file": "Maths/Graphs and Transformations.md",
+                "mode": "source",
                 "source": true
               }
             },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Stats.md",
+                "file": "Maths/Graphs and Transformations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Stats.md",
+                "file": "Maths/Graphs and Transformations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Stats.md"
+                "file": "Maths/Graphs and Transformations.md"
               }
             }
           },
@@ -181,35 +181,36 @@
   },
   "active": "43ef6e08e483f62e",
   "lastOpenFiles": [
-    "Maths/Maths Topic List.md",
-    "Maths/Stats.md",
-    "Jan 2024 Physics Revision List Content Paper 1.md",
+    "Maths/Quadratics.md",
+    "Pasted image 20230903152603.png",
     "Paper1Notes.pdf",
-    "Obsidian Documentation.md",
-    "Physics/Particles and Radiation.md",
-    "Pasted image 20231127153437.png",
+    "README.md",
     "Physics/Further Mechanics and Thermal Physics.md",
-    "Physics/FurtherMechAndThermal.pdf",
-    "Computer Science/1 - Fundamentals of Programming.md",
+    "Physics/Particles and Radiation.md",
+    "Physics/Electricity.md",
+    "Physics/Fields and Their Consequences.md",
+    "Physics/Nuclear Physics.md",
+    "Physics/Mechanics and Materials.md",
+    "Physics/Waves.md",
+    "Physics/Measurements and their Errors.md",
+    "Computer Science/11 - Big Data.md",
+    "Computer Science/12 - Fundamentals of Functional Programming.md",
+    "Computer Science/10 - Fundamentals of Databases.md",
+    "Computer Science/9 - Fundamentals of Communication and Networking.md",
+    "Computer Science/6 - Fundamentals of Computer Systems.md",
     "Computer Science/5 - Fundamentals of Data Representation.md",
-    "Computer Science/8 - Consequences of Uses of Computing.md",
     "Computer Science/4 - Theory of Computation.md",
     "Computer Science/3 - Fundamentals of Algorithms.md",
+    "Computer Science/1 - Fundamentals of Programming.md",
     "Computer Science/2 - Fundamentals of Data Structures.md",
-    "Maths/Radians.md",
-    "Maths/Sequences and Series.md",
-    "Maths/Exponentials and Logarthims.md",
-    "Maths/Functions and Graphs.md",
-    "Maths/Trigonometric Identities and Equations.md",
-    "Maths/Integration.md",
-    "Maths/Differentiation.md",
-    "Maths/Parametric Equations.md",
-    "Maths/Trigonometric Ratios.md",
-    "Maths/Equations and Inequalities.md",
-    "Computer Science/6 - Fundamentals of Computer Systems.md",
-    "Computer Science/9 - Fundamentals of Communication and Networking.md",
-    "Computer Science/10 - Fundamentals of Databases.md",
-    "Computer Science/11 - Big Data.md",
+    "Computer Science/8 - Consequences of Uses of Computing.md",
+    "Computer Science/7 - Fundamentals of Computer Organisation and Architecture.md",
+    "Computer Science/Computer Science Topic List.md",
+    "Maths/Maths Topic List.md",
+    "Further Maths/Complex Numbers.md",
+    "Further Maths/Further Maths Topic List.md",
+    "Pasted image 20231127153437.png",
+    "Physics/FurtherMechAndThermal.pdf",
     "Physics/NuclearPhysics.pdf",
     "Physics/FieldsAndTheirConsequences.pdf",
     "Pasted image 20231127153240.png",
@@ -226,7 +227,6 @@
     "Pasted image 20230911185625.png",
     "Pasted Image 20230903172142_634.png",
     "Pasted image 20230903164725.png",
-    "Pasted image 20230903164824.png",
     "Untitled.canvas"
   ]
 }
