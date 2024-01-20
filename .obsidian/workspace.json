@@ -4,34 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "dc3cf24d6c4a0ada",
+        "id": "51d2d9977aad0c10",
         "type": "tabs",
         "children": [
           {
-            "id": "7325018fc0a9a81f",
+            "id": "43ef6e08e483f62e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jan 2024 Physics Revision List Content Paper 1.md",
+                "file": "Maths/Stats.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             },
-            "group": "16f5132c5f2f4fcd"
-          },
+            "group": "785160820ca280c7"
+          }
+        ]
+      },
+      {
+        "id": "4fd2b6504d475dd3",
+        "type": "tabs",
+        "children": [
           {
-            "id": "2723714b1d0f4be5",
+            "id": "7ffa69d2c41f28bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jan 2024 Physics Revision List Content Paper 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Maths/Stats.md",
+                "mode": "preview",
+                "source": true
               }
             },
-            "group": "16f5132c5f2f4fcd"
+            "group": "785160820ca280c7"
           }
         ]
       }
@@ -99,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jan 2024 Physics Revision List Content Paper 1.md",
+                "file": "Maths/Stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jan 2024 Physics Revision List Content Paper 1.md",
+                "file": "Maths/Stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jan 2024 Physics Revision List Content Paper 1.md"
+                "file": "Maths/Stats.md"
               }
             }
           },
@@ -173,11 +179,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7325018fc0a9a81f",
+  "active": "43ef6e08e483f62e",
   "lastOpenFiles": [
+    "Maths/Maths Topic List.md",
+    "Maths/Stats.md",
+    "Jan 2024 Physics Revision List Content Paper 1.md",
     "Paper1Notes.pdf",
     "Obsidian Documentation.md",
-    "Jan 2024 Physics Revision List Content Paper 1.md",
     "Physics/Particles and Radiation.md",
     "Pasted image 20231127153437.png",
     "Physics/Further Mechanics and Thermal Physics.md",
@@ -198,7 +206,6 @@
     "Maths/Parametric Equations.md",
     "Maths/Trigonometric Ratios.md",
     "Maths/Equations and Inequalities.md",
-    "Maths/Maths Topic List.md",
     "Computer Science/6 - Fundamentals of Computer Systems.md",
     "Computer Science/9 - Fundamentals of Communication and Networking.md",
     "Computer Science/10 - Fundamentals of Databases.md",

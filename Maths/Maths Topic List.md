@@ -19,4 +19,5 @@
 # [[Trigonometry and Modelling]]
 # [[Parametric Equations]]
 # [[Numerical Methods]]
+# [[Stats]]
 
