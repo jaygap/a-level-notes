@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Graphs and Transformations.md",
+                "file": "Jan 2024 Physics Revision List Content Paper 2.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Graphs and Transformations.md",
-                "mode": "source",
+                "file": "Jan 2024 Physics Revision List Content Paper 2.md",
+                "mode": "preview",
                 "source": true
               }
             },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Graphs and Transformations.md",
+                "file": "Jan 2024 Physics Revision List Content Paper 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Graphs and Transformations.md",
+                "file": "Jan 2024 Physics Revision List Content Paper 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Graphs and Transformations.md"
+                "file": "Jan 2024 Physics Revision List Content Paper 2.md"
               }
             }
           },
@@ -181,6 +181,20 @@
   },
   "active": "43ef6e08e483f62e",
   "lastOpenFiles": [
+    "Paper2Notes.pdf",
+    "Maths/Stats.md",
+    "Obsidian Documentation.md",
+    "Jan 2024 Physics Revision List Content Paper 2.md",
+    "Jan 2024 Physics Revision List Content Paper 1.md",
+    "Paper2.pdf",
+    "Paper2.synctex.gz",
+    "Paper2.aux",
+    "Paper2.synctex(busy)",
+    "Paper2.log",
+    "Paper2.tex",
+    "simple-specific-heat-capacity-experiment.png",
+    "simple-specific-heat-capacity-experiment.jpeg",
+    "Maths/Graphs and Transformations.md",
     "Maths/Quadratics.md",
     "Pasted image 20230903152603.png",
     "Paper1Notes.pdf",
@@ -203,30 +217,15 @@
     "Computer Science/3 - Fundamentals of Algorithms.md",
     "Computer Science/1 - Fundamentals of Programming.md",
     "Computer Science/2 - Fundamentals of Data Structures.md",
-    "Computer Science/8 - Consequences of Uses of Computing.md",
-    "Computer Science/7 - Fundamentals of Computer Organisation and Architecture.md",
-    "Computer Science/Computer Science Topic List.md",
-    "Maths/Maths Topic List.md",
-    "Further Maths/Complex Numbers.md",
-    "Further Maths/Further Maths Topic List.md",
     "Pasted image 20231127153437.png",
     "Physics/FurtherMechAndThermal.pdf",
     "Physics/NuclearPhysics.pdf",
-    "Physics/FieldsAndTheirConsequences.pdf",
     "Pasted image 20231127153240.png",
-    "Physics/NuclearPhysics.log",
-    "Physics/NuclearPhysics.tex",
-    "Physics/Waves.pdf",
-    "Physics/Electricity.synctex(busy)",
-    "Physics/Electricity.bbl",
-    "Physics/Electricity.blg",
     "Pasted image 20230918193425.png",
     "Pasted image 20230918192852.png",
     "Pasted image 20230918192847.png",
     "Pasted image 20230918182227.png",
     "Pasted image 20230911185625.png",
-    "Pasted Image 20230903172142_634.png",
-    "Pasted image 20230903164725.png",
     "Untitled.canvas"
   ]
 }

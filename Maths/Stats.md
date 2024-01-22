@@ -106,7 +106,17 @@ The process of removing anomalies from a data set is known as cleaning the data.
 
 ## Correlation
 
+Bivariate data is data which has pairs of values for 2 variables. Correlation describes the nature of the linear relationship between two variables.
+
+The least squares regression line is a straight line of best fit that minimises the sum of the squares of the distances of each data point from the line.
+
+The regression line of y on x is written in the form $y=a+bx$. The coefficient $b$ is positive if there is a positive correlation and negative if there is a negative correlation.
+
+You should not extrapolate data from a regression line. It should only be used to interpolate values within the range for data points not given.
+
 ## Probability
+
+$$P(A \textrm{ }\cap B) =$$
 
 ## Statistical distributions
 
