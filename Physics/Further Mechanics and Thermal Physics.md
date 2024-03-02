@@ -150,3 +150,52 @@ $$E_e = \frac{1}{2}kx^2$$
 Real world systems aren't usually isolated systems, so the forces such as friction reduce the energy of the object(s) in SHM.
 
 Damping is when the amplitude of a wave decreases but the frequency/period remains the same.
+
+# Thermal Physics
+
+## Ideal Gases
+
+**Boyle's Law** : $pV = constant$
+
+**Charles' Law** : $\frac{V}{T}=constant$
+
+**Pressure Law** : $\frac{p}{T}=constant$
+
+$$\frac{pV}{T}=constant$$
+
+$$\frac{p_1V_1}{T_1}=\frac{p_2V_2}{T_2}$$
+
+T is in kelvin.
+
+Use the equation above when evaluating a change/difference in a gas.
+
+For the equations to work, the gas must be an ideal gas.
+
+**Ideal gas** $-$ a gas that obeys the gas laws at all pressures and temperatures. The internal energy of an ideal gas is only dependent on the kinetic energy of its particles, that particles do not have any energy.
+
+### Ideal gas assumptions
+
+- All gas particles are identical
+- All particle motion is continual and random (Brownian motion)
+- All particles move in a straight line
+- All particles have a negligible volume compared to the volume of the container
+- There is no attraction between the practicals
+- The internal energy of a gas is only kinetic energy and has no potential energy
+- All collisions are elastic
+- The time between each collision is negligible compared to the time between collisions
+
+$$\frac{pV}{T}=R$$
+
+The equation above is true for all ideal gases and $R$ is the molar gas constant, $8.31 \textrm{ }JK^{-1}mol^{-1}$.
+
+If the volume and temperature of a gas are kept constant then the pressure depends on R and the number of particles in the container.
+
+$$\frac{pV}{T}=nR$$
+
+Where $n$ is the number of moles in the gas. The equation can be rearranged to give $pV=nRT$.
+
+Number of moles can be calculated with $n = \frac{m}{M}$ where $n$ is the number of moles, $m$ is the mass in kg and $M$ is the molar mass
+
+### Particle in a box model
+
+- Gas is ideal (described above)
