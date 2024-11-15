@@ -29,5 +29,13 @@
 
 **Port forwarding** $-$ allows remote computers (outside the network) to connect to a specific computer or service within a private local network.
 
-## Gateways
+## Network Hardware Devices
 **Gateway** $-$ a device that allows for the transmission of data across dissimilar networks (e.g. networks that use different protocols)
+
+**Router** $-$ a device responsible for managing and routing data packets across network devices.
+
+**Modem** $-$ a device used to change a signal so that it can be sent through a cable that uses a different technology
+
+**Hub** $-$ repeats any message received to all connected devices.
+
+**Switch** $-$ only sends a message to its intended destination device.

@@ -151,6 +151,8 @@ Real world systems aren't usually isolated systems, so the forces such as fricti
 
 Damping is when the amplitude of a wave decreases but the frequency/period remains the same.
 
+### Resonance
+
 # Thermal Physics
 
 ## Ideal Gases
@@ -182,7 +184,7 @@ For the equations to work, the gas must be an ideal gas.
 - There is no attraction between the practicals
 - The internal energy of a gas is only kinetic energy and has no potential energy
 - All collisions are elastic
-- The time between each collision is negligible compared to the time between collisions
+- The duration of each collision is negligible compared to the time between collisions
 
 $$\frac{pV}{T}=R$$
 
